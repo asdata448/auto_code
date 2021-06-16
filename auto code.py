@@ -44,7 +44,7 @@ for i in range(1):
     #smscode.clear()
 
 
-#Dừng chương trình 5 giây
+#Dừng chương trình 10 giây
 
 #sleep(10)
 
